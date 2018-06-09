@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TokenBased</string>
+
+    <string name="user_login">user</string>
+    <string name="user_password">pass@12</string>
+    
+    <string name="login_preference">com.example.nurda.tokenbased_login_prefernce</string>
+    <string name="login_status_preference">com.example.nurda.tokenbased_login_status_prefernce</string>
+</resources>
